@@ -1,0 +1,15 @@
+name: traj
+channels:
+  - anaconda
+  - defaults
+dependencies:
+  - statsmodels
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - ipython
+  - numpy
+  - pip
+  - pandas
+  - numba
+  - filprofiler
