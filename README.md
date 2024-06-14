@@ -1,4 +1,4 @@
-# Harm Mitigation in Recommender Systems under User Preference Dynamics
+# Harm Mitigation in Recommender Systems under User Preference Dynamics KDD'24
 
 This repository contains code for the KDD'24 paper.
 
