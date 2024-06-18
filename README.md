@@ -1,6 +1,6 @@
 # Harm Mitigation in Recommender Systems under User Preference Dynamics KDD'24
 
-This repository contains code for the KDD'24 paper.
+This repository contains code for the KDD'24 paper: https://arxiv.org/abs/2406.09882v1.
 
 ## Data
 Download the IMDB parental guidelines and MovieLens25m datasets from:
